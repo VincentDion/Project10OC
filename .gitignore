@@ -1,5 +1,5 @@
 /venv
-/purbeurre_project/settings.py
+/pur_beurre_project/settings.py
 db.sqlite3
 /bestproduct/__pycache__/
 /pur_beurre_project/__pycache__/
