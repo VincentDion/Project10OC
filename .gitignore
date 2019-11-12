@@ -4,3 +4,5 @@ db.sqlite3
 /bestproduct/__pycache__/
 /pur_beurre_project/__pycache__/
 bestproduct/migrations/__pycache__/
+ssh_key_digital_ocean
+ssh_key_digital_ocean.pub
