@@ -1,3 +1,8 @@
 /venv
-/purbeurre_project/settings.py
+/pur_beurre_project/settings.py
+/pur_beurre_project/settings.py.save
+bestproduct/management/__pycache__/
 db.sqlite3
+/bestproduct/__pycache__/
+/pur_beurre_project/__pycache__/
+bestproduct/migrations/__pycache__/
